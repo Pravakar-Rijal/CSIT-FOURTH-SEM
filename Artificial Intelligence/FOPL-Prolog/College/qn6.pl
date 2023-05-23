@@ -1,0 +1,1 @@
+cube(X,C):-C is X*X*X.
